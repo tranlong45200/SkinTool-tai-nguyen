@@ -3,9 +3,9 @@
             "fileName": "",
             "fileExtension": "",
             "name": "cocok buat konten jedag jedug nih -super rare skin collection v5",
-            "image": "https://github.com/tranlong45200/SkinTool-tai-nguyen/raw/main/skintool/character/file/1/1.png",
+            "image": "character/file/1/1.png",
             "date": "4/9/2021",
-            "file": "https://github.com/tranlong45200/SkinTool-tai-nguyen/raw/main/skintool/character/file/1/clothesslotoverlays.xI5R~2BE~2BYYgiaTgInz6dGGUf9LrM~3D",
+            "file": "character/file/1/clothesslotoverlays.xI5R~2BE~2BYYgiaTgInz6dGGUf9LrM~3D",
             "des1": "",
             "des2": ""
         },
@@ -13,9 +13,9 @@
             "fileName": "",
             "fileExtension": "",
             "name": "paling dicari bundle top global nih - very ra skin collection v4",
-            "image": "https://github.com/tranlong45200/SkinTool-tai-nguyen/raw/main/skintool/character/file/2/2.png",
+            "image": "character/file/2/2.png",
             "date": "3/9/2021",
-            "file": "https://github.com/tranlong45200/SkinTool-tai-nguyen/raw/main/skintool/character/file/2/clothesslotoverlays.xI5R~2BE~2BYYgiaTgInz6dGGUf9LrM~3D",
+            "file": "character/file/2/clothesslotoverlays.xI5R~2BE~2BYYgiaTgInz6dGGUf9LrM~3D",
             "des1": "",
             "des2": ""
         },
@@ -23,9 +23,9 @@
             "fileName": "",
             "fileExtension": "",
             "name": "edisi spesial set pro player terbaru - complete skin collecton v3",
-            "image": "https://github.com/tranlong45200/SkinTool-tai-nguyen/raw/main/skintool/character/file/3/3.png",
+            "image": "character/file/3/3.png",
             "date": "2/9/2021",
-            "file": "https://github.com/tranlong45200/SkinTool-tai-nguyen/raw/main/skintool/character/file/3/clothesslotoverlays.xI5R~2BE~2BYYgiaTgInz6dGGUf9LrM~3D",
+            "file": "character/file/3/clothesslotoverlays.xI5R~2BE~2BYYgiaTgInz6dGGUf9LrM~3D",
             "des1": "",
             "des2": ""
         },
@@ -33,9 +33,9 @@
             "fileName": "",
             "fileExtension": "",
             "name": "kolecksi bundle season old & set luar negri - legendary skin",
-            "image": "https://github.com/tranlong45200/SkinTool-tai-nguyen/raw/main/skintool/character/file/4/4.png",
+            "image": "character/file/4/4.png",
             "date": "1/9/2021",
-            "file": "https://github.com/tranlong45200/SkinTool-tai-nguyen/raw/main/skintool/character/file/4/clothesslotoverlays.xI5R~2BE~2BYYgiaTgInz6dGGUf9LrM~3D",
+            "file": "character/file/4/clothesslotoverlays.xI5R~2BE~2BYYgiaTgInz6dGGUf9LrM~3D",
             "des1": "",
             "des2": ""
         },
@@ -43,9 +43,9 @@
             "fileName": "",
             "fileExtension": "",
             "name": "koleski baju terbaru setelah update - all new complete skin collection v1",
-            "image": "https://github.com/tranlong45200/SkinTool-tai-nguyen/raw/main/skintool/character/file/5/5.png",
+            "image": "character/file/5/5.png",
             "date": "31/8/2021",
-            "file": "https://github.com/tranlong45200/SkinTool-tai-nguyen/raw/main/skintool/character/file/5/clothesslotoverlays.xI5R~2BE~2BYYgiaTgInz6dGGUf9LrM~3D",
+            "file": "character/file/5/clothesslotoverlays.xI5R~2BE~2BYYgiaTgInz6dGGUf9LrM~3D",
             "des1": "",
             "des2": ""
         },
@@ -53,23 +53,101 @@
             "fileName": "",
             "fileExtension": "",
             "name": "original file reset default - mengembalikan tampilan menjadi",
-            "image": "https://github.com/tranlong45200/SkinTool-tai-nguyen/raw/main/skintool/character/file/6/6.png",
+            "image": "character/file/6/6.png",
             "date": "31/8/2021",
-            "file": "https://github.com/tranlong45200/SkinTool-tai-nguyen/raw/main/skintool/character/file/6/clothesslotoverlays.xI5R~2BE~2BYYgiaTgInz6dGGUf9LrM~3D",
+            "file": "character/file/6/clothesslotoverlays.xI5R~2BE~2BYYgiaTgInz6dGGUf9LrM~3D",
             "des1": "",
             "des2": ""
         }
     ],
     "weapon": [{
 
-        "fileName": "",
-        "fileExtension": "",
-        "name": "original file reset default - mengembalikan tampilan menjadi",
-        "image": "https://github.com/tranlong45200/SkinTool-tai-nguyen/raw/main/skintool/character/file/6/6.png",
-        "date": "31/8/2021",
-        "file": "https://github.com/tranlong45200/SkinTool-tai-nguyen/raw/main/skintool/character/file/6/clothesslotoverlays.xI5R~2BE~2BYYgiaTgInz6dGGUf9LrM~3D",
-        "des1": "",
-        "des2": ""
-    }],
-    "hotUrl": "https://github.com/tranlong45200/SkinTool-tai-nguyen/raw/main/skintool/"
+            "fileName": "",
+            "fileExtension": "",
+            "name": "emote jedak jeduk viral di tik tok - special weapon emote collection v6",
+            "image": "weapon/file/1/1.png",
+            "date": "5/9/2021",
+            "file": "weapon/file/1/resconf.vOImV~2FkAQgLICmEW6PgOuMqjubE~3D",
+            "des1": "",
+            "des2": ""
+        },
+        {
+
+            "fileName": "",
+            "fileExtension": "",
+            "name": "kumpulan skin senjata incubator - all new weapon emote collection v5",
+            "image": "weapon/file/2/2.png",
+            "date": "4/9/2021",
+            "file": "weapon/file/2/resconf.vOImV~2FkAQgLICmEW6PgOuMqjubE~3D",
+            "des1": "",
+            "des2": ""
+        },
+        {
+
+            "fileName": "",
+            "fileExtension": "",
+            "name": "terbaru skin evo gun dan emote keren - best weapon emote collection v4",
+            "image": "weapon/file/3/3.png",
+            "date": "3/9/2021",
+            "file": "weapon/file/3/resconf.vOImV~2FkAQgLICmEW6PgOuMqjubE~3D",
+            "des1": "",
+            "des2": ""
+        },
+        {
+
+            "fileName": "",
+            "fileExtension": "",
+            "name": "anti lag terbaru background greenscreen - no drop fps up to 60 fps",
+            "image": "weapon/file/4/4.png",
+            "date": "2/9/2021",
+            "file": "weapon/file/4/resconf.vOImV~2FkAQgLICmEW6PgOuMqjubE~3D",
+            "des1": "",
+            "des2": ""
+        },
+        {
+
+            "fileName": "",
+            "fileExtension": "",
+            "name": "emote terbaru skin evo full effects - the best weapon emote collection v3",
+            "image": "weapon/file/5/5.png",
+            "date": "2/9/2021",
+            "file": "weapon/file/5/resconf.vOImV~2FkAQgLICmEW6PgOuMqjubE~3D",
+            "des1": "",
+            "des2": ""
+        },
+        {
+
+            "fileName": "",
+            "fileExtension": "",
+            "name": "anti lag terbaru paling lancar gampang headhot - no drop fps up to 60 fps",
+            "image": "weapon/file/6/6.png",
+            "date": "1/9/2021",
+            "file": "weapon/file/6/resconf.vOImV~2FkAQgLICmEW6PgOuMqjubE~3D",
+            "des1": "",
+            "des2": ""
+        },
+        {
+
+            "fileName": "",
+            "fileExtension": "",
+            "name": "terbaru skin evo gun dan emoate keren - best weapon emote collection v2",
+            "image": "weapon/file/7/7.png",
+            "date": "31/8/2021",
+            "file": "weapon/file/7/resconf.vOImV~2FkAQgLICmEW6PgOuMqjubE~3D",
+            "des1": "",
+            "des2": ""
+        },
+        {
+
+            "fileName": "",
+            "fileExtension": "",
+            "name": "emote jedak jeduk viral di tiktok - special weapon emote collection v1",
+            "image": "weapon/file/8/8.png",
+            "date": "31/8/2021",
+            "file": "weapon/file/8/resconf.vOImV~2FkAQgLICmEW6PgOuMqjubE~3D",
+            "des1": "",
+            "des2": ""
+        }
+    ],
+    "hotUrl": ""
 }
