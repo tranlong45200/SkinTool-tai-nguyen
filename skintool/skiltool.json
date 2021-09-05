@@ -1,5 +1,5 @@
 {
-    "skintool": [{
+    "character": [{
             "fileName": "",
             "fileExtension": "",
             "name": "cocok buat konten jedag jedug nih -super rare skin collection v5",
@@ -60,5 +60,16 @@
             "des2": ""
         }
     ],
+    "weapon": [{
+
+        "fileName": "",
+        "fileExtension": "",
+        "name": "original file reset default - mengembalikan tampilan menjadi",
+        "image": "https://github.com/tranlong45200/SkinTool-tai-nguyen/raw/main/skintool/character/file/6/6.png",
+        "date": "31/8/2021",
+        "file": "https://github.com/tranlong45200/SkinTool-tai-nguyen/raw/main/skintool/character/file/6/clothesslotoverlays.xI5R~2BE~2BYYgiaTgInz6dGGUf9LrM~3D",
+        "des1": "",
+        "des2": ""
+    }],
     "hotUrl": "https://github.com/tranlong45200/SkinTool-tai-nguyen/raw/main/skintool/"
 }
